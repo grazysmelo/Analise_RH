@@ -1,5 +1,5 @@
 <h1 align="center">Análise RH - Absenteísmo</h1>
-<p align="center"></p>
+![capa do projeto](https://github.com/grazysmelo/Analise_RH/blob/main/Absenteismo.png?raw=true)
 
 <h2>Contexto:</h2>
 *******
