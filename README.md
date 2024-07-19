@@ -24,3 +24,8 @@ em gráficos e um entendimento mais fácil.
 ### Dashboard
 <img src="https://github.com/grazysmelo/Analise_RH/blob/main/capa%20dashboard.png?raw=true">
 <img src="https://github.com/grazysmelo/Analise_RH/blob/main/Dashboard.png?raw=true">
+
+### Recomendações de melhorias
+- Oferecer melhores condições no ambiente de trabalho, aumenta a satisfação dos funcionários e assim os motiva a trabalhar com uma melhor performance.
+- Incentivar a qualidade de vida e alertar sobre a importância da saúde mental e física, irá trazer bons resultados na equipe. Incluir o home office como um formato de trabalho também pode ser atrativo.
+- Garantir que as lideranças da empresa estejam bem preparadas e sempre deixar um canal de comunicação aberto entre os líderes e liderados da empresa.
