@@ -1,5 +1,5 @@
-# Análise RH - Absenteísmo<
-<img src="https://github.com/grazysmelo/Analise_RH/blob/main/Absenteismo.png?raw=true" align="center">
+# Análise RH - Absenteísmo
+<img src="https://github.com/grazysmelo/Analise_RH/blob/main/Absenteismo.png?raw=true">
 
 ### Contexto:
 - O diretor do RH de uma empresa, nos contatou com para sanar algumas dúvidas sobre os possíveis motivos das faltas entre os funcionários estarem aumentando
@@ -11,9 +11,9 @@ a cada período que se passa. Foram liberados a tabela com as informações nece
 - Explicação dos possíveis motivos do acúmulo de faltas
 
 ### Consulta e testes
-[clique aqui para vizualizar]()
+[clique aqui para vizualizar](https://github.com/grazysmelo/Analise_RH/blob/main/consultas.sql)
 - Foram feitas consultas e funções para responder as perguntas do cliente, uilizando o SQLServer.
-<p></p>
+<img src="https://github.com/grazysmelo/Analise_RH/blob/main/sql.png?raw=true">
 
 ### ETL (Transformação, Extração e Carregamento)
 - Após as análises finalizadas, os dados foram extraidos para o Power BI, e iniciei a criação do Dashboard.
@@ -22,5 +22,5 @@ a quantidade de filtros que continham as informações da distância de casa at�
 em gráficos e um entendimento mais fácil.
 
 ### Dashboard
-<p></p>
-<p></p>
+<img src="https://github.com/grazysmelo/Analise_RH/blob/main/capa%20dashboard.png?raw=true">
+<img src="https://github.com/grazysmelo/Analise_RH/blob/main/Dashboard.png?raw=true">
